@@ -51,8 +51,6 @@ Any system claiming “Athena compliance” must follow the full framework or st
 
 ## 🌍 Final Word
 
-If it doesn’t follow Athena, it isn’t ethical AGI.
-
 This is not a suggestion.  
 This is a firewall for the future.
 
