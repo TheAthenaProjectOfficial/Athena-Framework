@@ -64,8 +64,12 @@ Every contribution helps preserve Athena's independence and expands the reach of
 Link to donation site: https://donate.stripe.com/test_00w14pfApcMT09VfoJao800 (Thank you for your support!)
 
 
-##    COMMUNITY DASHBOARD
+## 🌐 Athena Live Community Dashboard
 
+(link coming soon)
+See total forks, views, endorsed projects, and passive comment space.
+
+> Community-led. Ethically guarded. Zero ego.
 
 
 
