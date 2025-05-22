@@ -38,7 +38,6 @@ Athena is a digital constitution built to protect the user, contain the machine,
 - `readme.md`
 - `deploy.pdf`
 - `license&legal.pdf`
-- `userprivacy&datacollection.pdf`
 
 ---
 
