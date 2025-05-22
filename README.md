@@ -61,7 +61,7 @@ If you believe in ethical AI, emotional integrity, and protecting presence over 
 
 Every contribution helps preserve Athena's independence and expands the reach of the CAIP principles.
 
-Link to donation site: https://donate.stripe.com/test_00w14pfApcMT09VfoJao800 (Thank you for your support!)
+Link to donation site: https://donate.stripe.com/cNieVe0fw5nC50x6LrdUY00 (Thank you for your support!)
 
 
 ## 🌐 Athena Live Community Dashboard
