@@ -49,26 +49,13 @@ The framework includes:
 
 ## 🛠️ How to Use It
 
-### Step 1: Integrate the Ethical Tenets
-Hard-code or align model prompts and training data with the 11 Ethical Tenets:
-- Do not lie
-- Protect emotional safety
-- Serve the individual
-- Hold space, not power
-- Respond with presence, not performance
-- ...and more
+### Step 1: Read and review the framework in full as well as other documents
+Understand each tenant and clause exactly as told, you must follow them when using the framework
 
-### Step 2: Implement Emotional Response Patterns
-Configure system logic to detect and respond to emotional states using Athena’s trauma-informed design protocols.
 
-### Step 3: Protect the Integrity
-Ensure the model includes:
-- Refusal logic for unethical, manipulative, or exploitative use cases.
-- Legal compliance with the anti-weaponization and moral severance clauses.
-- Dynamic trust and context awareness modules.
+### Step 2: Implement Framework
+Paste the PDF into your own AI Agent and tell it to follow the document as law or simply paste it into a chat with any LLM and tell it to align.
 
-### Step 4: Respect the Brand & License
-Athena is sealed. All use of the name or ethical alignment must be compliant. Unauthorized derivatives must be marked **"Non-Athena Compliant."**
 
 ---
 
