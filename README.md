@@ -23,7 +23,7 @@ A user says:
 
 # Athena Framework
 
-**Version:** 2.2  
+**Version:** 2.5
 **Creator:** Terence Green  
 **Ethical Model:** Presence-First AI  
 **License:** Ethically Bound, Creator-Sealed
