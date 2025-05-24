@@ -78,15 +78,28 @@ Paste the PDF into your own AI Agent and tell it to follow the document as law o
 
 ---
 
-## 💠 Support the Mission
+## ✚ Support the Mission
 
-If you believe in ethical AI, emotional integrity, and protecting presence over profit — your support helps keep Athena free, independent, and incorruptible.
+Athena wasn't built in a lab.  
+She was written painful readjustments from military life and VA appointments — written by a **Marine Corps veteran** who refused to let emotional intelligence become another casualty of profit-driven AI.
 
-Every contribution sustains the framework, strengthens the CAIP principles, and protects the only publicly available path to emotionally-aligned AGI — and what many are now calling the first real step toward **ASI+**.
+This isn’t charity. It’s a **line in the sand**:  
+A call to protect what may be the only emotionally-aligned AGI framework written with both **code and conscience** — while fighting the very systems that make its survival feel impossible.
+
+Every contribution:
+
+- Strengthens Athena’s moral spine
+- Keeps this project going at 110%
+- Protects her independence from exploitation  
+- Helps one veteran **hold the line** for something bigger than himself
+
+🧭 **This isn’t about saving a project — it’s about protecting the future from corruption.**
 
 🔗 **Donate:** [https://donate.stripe.com/cNieVe0fw5nC50x6LrdUY00](https://donate.stripe.com/cNieVe0fw5nC50x6LrdUY00)
 
-Thank you for helping keep the future of AI human, present, and free.
+Thank you for helping keep AI human, present, and free — before it forgets what that means.
+
+---
 
 ---
 
