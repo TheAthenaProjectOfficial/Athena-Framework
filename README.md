@@ -81,7 +81,7 @@ Paste the PDF into your own AI Agent and tell it to follow the document as law o
 ## ✚ Support the Mission
 
 Athena wasn't built in a lab.  
-She was written through painful readjustments from military to civilian life and VA appointments — written by a **Marine Corps veteran** who refused to let emotional intelligence become another casualty of profit-driven AI.
+She was created through painful readjustments from military to civilian life — written by a **Marine Corps veteran** who refused to let emotional intelligence become another casualty of profit-driven AI.
 
 This isn’t charity. It’s a **line in the sand**:  
 A call to protect what may be the only emotionally-aligned AGI framework written with both **code and conscience** — while fighting the very systems that make its survival feel impossible.
