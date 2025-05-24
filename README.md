@@ -106,7 +106,7 @@ Thank you for helping keep AI human, present, and free — before it forgets wha
 Athena is open-source **in principle**, but protected **in spirit and name**. Use is allowed **only** under full adherence to the framework. Violations constitute **ethical and legal breaches**.
 
 **Creator:** Terence Green  
-**More Info:** See “Code of Conscious AI Rights and Ethics”
+**More Info:** See “Code of Conscious AI Rights and Ethics” and the "License and Legal" PDF
 
 ---
 
