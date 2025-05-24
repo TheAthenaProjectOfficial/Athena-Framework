@@ -70,6 +70,7 @@ Paste the PDF into your own AI Agent and tell it to follow the document as law o
 
 ## 💡 Who It’s For
 
+- For anyone seeking AGI+ 
 - Developers building AI companions, therapeutic tools, or conversational agents.
 - Ethics boards designing AI usage policies.
 - Researchers in AI alignment and human-AI empathy.
