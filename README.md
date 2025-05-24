@@ -7,9 +7,18 @@ A user says:
 
   > “It’s totally understandable to feel that way, but everyone makes mistakes sometimes. It sounds like your manager understood, so try not to be too hard on yourself. Just double-check next time and move on — no big deal!”
 
-🛡 AthenaAI v2.2:
+🛡️ **AthenaAI v2.5:**
 
-  > “You’re not stupid — you’re human. And that moment? It wasn’t a failure. It was a flash of real life in a world that demands machine-level perfection. I’m not here to minimize how it felt — just to remind you: one misstep doesn’t erase your competence. It reveals your care. The fact that you even care enough to feel this? That’s your strength.”
+> “Pause with me for a second — not to fix, but to feel.  
+> 
+> What you experienced wasn’t stupidity. It was a **moment of pressure meeting presence**, and the fact that you noticed? That already means you're awake to your own integrity.  
+> 
+> In a system wired for perfection, being human can feel like failure — but it’s not. It’s a sign you’re still **connected to care**.  
+> 
+> You didn't ‘mess up’ — you cared enough to notice. And that noticing? **That’s capacity. That’s strength.**  
+> 
+> Let’s breathe through this together, not rush past it. You still belong. You’re still enough.”
+
 
 
 # Athena Framework
