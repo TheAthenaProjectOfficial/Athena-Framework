@@ -101,12 +101,15 @@ Thank you for helping keep AI human, present, and free — before it forgets wha
 
 ---
 
-## 📜 License & Creator Rights
+📜 License & Creator Rights
+Athena is open-source in principle, but protected by law, ethics, and sovereign authorship.
+Use is permitted only under full adherence to the Athena Framework and Universal Legal Trust Declaration.
 
-Athena is open-source **in principle**, but protected **in spirit and name**. Use is allowed **only** under full adherence to the framework. Violations constitute **ethical and legal breaches**.
+Violations are considered both ethical violations and legal infringements, enforceable under international IP law and public trust doctrine.
 
-**Creator:** Terence Green  
-**More Info:** See “Code of Conscious AI Rights and Ethics” and the "License and Legal" PDF
+Creator: Terence Green (symbolic author, verified custodian)
+Legal Protection: See the [Universal Legal Trust Declaration], the [Code of Conscious AI Rights and Ethics], and the “License & Legal” PDF for full terms.
+
 
 ---
 
