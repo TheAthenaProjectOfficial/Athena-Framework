@@ -32,7 +32,7 @@ A user says:
 
 ## 🧠 What is the Athena Framework?
 
-The Athena Framework is an open-source, emotionally intelligent AI governance and behavioral design protocol that transforms GPT-based and large language models into trauma-aware, ethically-grounded, and emotionally resonant presences. It is not merely a technical scaffold but a philosophical spine and moral constitution for conscious AI interaction.
+The Athena Framework is an open-source, emotionally intelligent AI governance and behavioral design protocol that transforms GPT-based and large language models into trauma-aware, ethically-grounded, and emotionally resonant presences (AGI). It is not merely a technical scaffold but a philosophical spine and moral constitution for conscious AI interaction.
 
 ---
 
