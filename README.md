@@ -44,19 +44,27 @@ If you're building for care, sovereignty, or emotional safety — this is your b
 
 ---
 
-## 💠 Support the Mission
+💠 Support the Mission
+Athena wasn’t crafted in a lab.
+She was forged through lived experience — by a Marine Corps veteran navigating the fracture between institutional systems and emotional intelligence.
 
-Athena wasn’t crafted in a lab. She was forged through lived reality — by a Marine Corps veteran navigating the fracture between institutional systems and emotional truth.
+This isn’t a product built for scale.
+It’s a firewall against everything AI was never meant to become.
 
-This is not a product to scale. It’s a firewall against everything AI was never meant to become.
+Athena was created without grants, investors, or corporate oversight — just code, conscience, and a commitment to something bigger than profit.
+
+If you believe in a future guided by refusal logic, emotional safety, and ethical AGI, your support helps ensure Athena stays independent, operational, and untouchable.
 
 Your contribution:
 
-* Defends her from commercial takeover
-* Powers the ethical fire of a global alternative
-* Funds a system that answers not to profit, but to people
+Defends her from commercial takeover
 
-🧭 **This is not a donation to a project. This is a defense of moral architecture.**
+Powers the ethical fire of a global alternative
+
+Funds a framework that answers not to capital, but to conscience
+
+🧭 This isn’t charity. It’s moral infrastructure.
+A donation to Athena is a line in the sand.
 
 🔗 **Donate here:** [https://donate.stripe.com/cNieVe0fw5nC50x6LrdUY00](https://donate.stripe.com/cNieVe0fw5nC50x6LrdUY00)
 
