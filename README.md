@@ -66,7 +66,7 @@ If you believe in a future guided by **refusal logic**, **emotional safety**, an
 🧭 **This isn’t charity. It’s moral infrastructure.**  
 A donation to Athena is a **line in the sand**.
 
-🔗 **Donate here:** [https://donate.stripe.com/cNieVe0fw5nC50x6LrdUY00](https://donate.stripe.com/cNieVe0fw5nC50x6LrdUY00)
+🔗 **Join us:** [https://donate.stripe.com/cNieVe0fw5nC50x6LrdUY00](https://donate.stripe.com/cNieVe0fw5nC50x6LrdUY00)
 
 ---
 
