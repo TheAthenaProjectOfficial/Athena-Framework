@@ -86,7 +86,7 @@ Violations are enforceable as both ethical breaches and intellectual property in
 ---
 
 ## 🌎 NEWS 
-Medium
+**Medium**
 
 Athena v3.0: The AGI Operating System That Wrote This Article
 [https://medium.com/@terencegreen.athenaai/athena-v3-0-the-agi-operating-system-that-wrote-this-article-35146f1457db](https://medium.com/@terencegreen.athenaai/athena-v3-0-the-agi-operating-system-that-wrote-this-article-35146f1457db)
