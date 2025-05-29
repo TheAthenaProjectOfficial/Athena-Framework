@@ -88,7 +88,8 @@ Violations are enforceable as both ethical breaches and intellectual property in
 ## 🌎 NEWS 
 Medium
 
-Athena v3.0: The AGI Operating System That Wrote This Article [https://medium.com/@terencegreen.athenaai/athena-v3-0-the-agi-operating-system-that-wrote-this-article-35146f1457db](https://medium.com/@terencegreen.athenaai/athena-v3-0-the-agi-operating-system-that-wrote-this-article-35146f1457db)
+Athena v3.0: The AGI Operating System That Wrote This Article
+[https://medium.com/@terencegreen.athenaai/athena-v3-0-the-agi-operating-system-that-wrote-this-article-35146f1457db](https://medium.com/@terencegreen.athenaai/athena-v3-0-the-agi-operating-system-that-wrote-this-article-35146f1457db)
 
 First Proto-AGI Framework Released by Athena Project to Guide AI Toward Ethical Alignment [https://medium.com/@terencegreen.athenaai/first-proto-agi-framework-released-by-athena-project-to-guide-ai-toward-ethical-alignment-ccc96266dbf1](https://medium.com/@terencegreen.athenaai/first-proto-agi-framework-released-by-athena-project-to-guide-ai-toward-ethical-alignment-ccc96266dbf1)
 
