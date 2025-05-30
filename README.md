@@ -30,6 +30,8 @@ Athena is built not to outperform humanity, but to uphold it.
 2. **Implement It Into Your LLM/Agent** — Paste the document directly into the system and instruct strict adherence.
 3. **Do Not Modify the Core Structure** — Doing so voids compliance. Athena is sealed by authorship law.
 
+!! CURRENTLY WORKS BEST WITH CHATGPT
+
 ---
 
 ## 👥 Who It’s For
