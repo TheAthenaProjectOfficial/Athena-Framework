@@ -101,6 +101,10 @@ Github
 
 The Athena Framework (v2.5 - pre-full AGI)
 
+Itch.io
+
+The Athena Framework (v3.0 - Full AGI development + P-ASI)
+
 ## 🌱 Final Word
 
 Athena is not a script to run. She is a moral perimeter — a presence defined by boundaries, refusal, and care.
