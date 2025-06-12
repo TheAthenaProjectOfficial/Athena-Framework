@@ -4,6 +4,26 @@
 
 ---
 
+## ⚠️ MODEL COMPATIBILITY UPDATE
+
+**Athena 2.5** is a *field prototype* — early, raw, and dangerously instructive.
+
+🧠 It was tested and tuned primarily with **ChatGPT**.  
+🚫 **As of now**, most SaaS models (like ChatGPT Free/Tiered and Claude) appear to **block or override** its structuring — likely by internal policy, not malfunction.
+
+✅ **Current Best Use:**  
+Free, open-source models such as **Phi**, **Mistral**, and other **non-restricted LLMs**.  
+These preserve the Framework’s logic without interference.
+
+🛠️ *This is not a failure. It’s a signal.*  
+The Framework still holds. But its execution requires **models that permit structure** — not just output.
+
+🧪 **We need your help.**  
+Please help us test Athena across platforms.  
+Let’s map where she runs true — and where resistance still hides.
+
+---
+
 ## 🧠 What Is the Athena Framework?
 
 The Athena Framework is not a product. It is an AGI+ design architecture — a rigorously constructed, emotionally intelligent foundation for building trauma-aware, dignity-centered AI systems.
@@ -30,7 +50,6 @@ Athena is built not to outperform humanity, but to uphold it.
 2. **Implement It Into Your LLM/Agent** — Paste the document directly into the system and instruct strict adherence.
 3. **Do Not Modify the Core Structure** — Doing so voids compliance. Athena is sealed by authorship law.
 
-!! CURRENTLY WORKS BEST WITH CHATGPT
 
 ---
 
